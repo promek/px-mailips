@@ -73,7 +73,7 @@ def main() :
 
 
 def usage():
-    print "Usage: px-mailips [OPTION]"
+    print "Usage: px-mailips.py [OPTION]"
     print "-r : reload"
     print "-p : print"
 
