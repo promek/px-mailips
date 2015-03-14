@@ -1,0 +1,3 @@
+reseller based /etc/mailips configuration
+
+cpanel sunucularda /etc/mailips dosyasina resellerlara göre ip atamasi yapar... 
