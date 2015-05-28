@@ -7,7 +7,7 @@
 #
 # Copyright (C) 2012 by ibrahim ŞEN <ibrahim@promek.net>
 #
-# http://px-mailips.googlecode.com
+# https://github.com/promek/px-mailips
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
